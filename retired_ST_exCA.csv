@@ -1,0 +1,503 @@
+,Utility ID,Utility Name,Plant Code,Plant Name,State,plant life,Heatrate,Nameplate Capacity (MW)
+0,195,Alabama Power Co,3,Barry,AL,56.08333333,10272.8343,272
+1,195,Alabama Power Co,8,Gorgas,AL,46.5,10132.49633,788.8
+2,195,Alabama Power Co,8,Gorgas,AL,64.33333333,10132.49633,125
+3,195,Alabama Power Co,8,Gorgas,AL,63.08333333,10132.49633,125
+4,195,Alabama Power Co,8,Gorgas,AL,62.91666667,10132.49633,187.5
+5,195,Alabama Power Co,8,Gorgas,AL,60.83333333,10132.49633,190.4
+6,18642,Tennessee Valley Authority,47,Colbert,AL,61.25,10791.95288,200
+7,18642,Tennessee Valley Authority,47,Colbert,AL,61.08333333,10791.95288,200
+8,18642,Tennessee Valley Authority,47,Colbert,AL,60.75,10791.95288,200
+9,18642,Tennessee Valley Authority,47,Colbert,AL,60.41666667,10791.95288,200
+10,18642,Tennessee Valley Authority,47,Colbert,AL,50.41666667,10791.95288,550
+11,18642,Tennessee Valley Authority,50,Widows Creek,AL,62,11325.43867,140.6
+12,18642,Tennessee Valley Authority,50,Widows Creek,AL,61.75,11325.43867,140.6
+13,18642,Tennessee Valley Authority,50,Widows Creek,AL,60.66666667,11325.43867,140.6
+14,18642,Tennessee Valley Authority,50,Widows Creek,AL,61.5,11325.43867,140.6
+15,18642,Tennessee Valley Authority,50,Widows Creek,AL,59.08333333,11325.43867,140.6
+16,18642,Tennessee Valley Authority,50,Widows Creek,AL,60,11325.43867,140.6
+17,18642,Tennessee Valley Authority,50,Widows Creek,AL,54.58333333,11325.43867,575
+18,18642,Tennessee Valley Authority,50,Widows Creek,AL,50.58333333,11325.43867,550
+19,3265,Cleco Power LLC,51,Dolet Hills,LA,35.66666667,11121.58741,720.7
+20,189,PowerSouth Energy Cooperative,56,Lowman Energy Center,AL,42.33333333,10655.7915,236
+21,189,PowerSouth Energy Cooperative,56,Lowman Energy Center,AL,40.33333333,10655.7915,236
+22,30151,"Tri-State G & T Assn, Inc",87,Escalante,NM,35.91666667,11259.41628,257
+23,803,Arizona Public Service Co,113,Cholla,AZ,37.41666667,10537.83215,288.9
+24,803,Arizona Public Service Co,113,Cholla,AZ,39.5,10537.83215,414
+25,803,Arizona Public Service Co,116,Ocotillo,AZ,58.58333333,11807.08825,113.6
+26,803,Arizona Public Service Co,116,Ocotillo,AZ,58.83333333,11807.08825,113.6
+27,803,Arizona Public Service Co,118,Saguaro,AZ,59,12948.93068,125
+28,803,Arizona Public Service Co,118,Saguaro,AZ,58.08333333,12948.93068,125
+29,24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,AZ,60.91666667,11021.25313,108.8
+30,24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,AZ,59.08333333,11021.25313,108.8
+31,7490,Grand River Dam Authority,165,GREC,OK,39.5,11031.46211,540
+32,814,Entergy Arkansas LLC,167,Cecil Lynch,AR,59.5,16952.95318,156.2
+33,814,Entergy Arkansas LLC,169,Harvey Couch,AR,59.33333333,19682.1616,156.2
+34,814,Entergy Arkansas LLC,170,Lake Catherine,AR,60.66666667,14443.9797,119.5
+35,9617,JEA,207,St Johns River Power Park,FL,30.75,9849.904678,679
+36,9617,JEA,207,St Johns River Power Park,FL,29.5,9849.904678,679
+37,15466,Public Service Co of Colorado,465,Arapahoe,CO,58.5,12317.46151,112.5
+38,15466,Public Service Co of Colorado,469,Cherokee,CO,54.83333333,10323.45973,125
+39,15466,Public Service Co of Colorado,469,Cherokee,CO,52.33333333,10323.45973,125
+40,15466,Public Service Co of Colorado,469,Cherokee,CO,53.16666667,10323.45973,170.5
+41,15466,Public Service Co of Colorado,470,Comanche (CO),CO,49.5,10712.60702,382.5
+42,15466,Public Service Co of Colorado,477,Valmont,CO,53.33333333,9512.176323,191.7
+43,15466,Public Service Co of Colorado,478,Zuni,CO,61.5,30234.64124,75
+44,3989,City of Colorado Springs - (CO),492,South Plant,CO,53.83333333,11062.87851,75
+45,3989,City of Colorado Springs - (CO),492,South Plant,CO,48.08333333,11062.87851,132.3
+46,30151,"Tri-State G & T Assn, Inc",527,Nucla,CO,28.66666667,12124.244,79.3
+47,65448,"Generation Bridge II Connecticut, LLC",568,Bridgeport Station,CT,52.41666667,14107.26989,163
+48,65448,"Generation Bridge II Connecticut, LLC",568,Bridgeport Station,CT,52.83333333,14107.26989,400
+49,9332,Indian River Operations Inc,594,Indian River Generating Station,DE,55.75,11052.53124,81.6
+50,9332,Indian River Operations Inc,594,Indian River Generating Station,DE,53.66666667,11052.53124,81.6
+51,9332,Indian River Operations Inc,594,Indian River Generating Station,DE,43.83333333,11052.53124,176.8
+52,54899,NAES Corporation - (DE),599,McKee Run,DE,46,12671.87169,113.6
+53,6452,Florida Power & Light Co,609,Cape Canaveral,FL,45.16666667,10673.28769,402
+54,6452,Florida Power & Light Co,609,Cape Canaveral,FL,41.08333333,10673.28769,402
+55,6452,Florida Power & Light Co,610,Cutler,FL,57.33333333,14141.92748,162
+56,6452,Florida Power & Light Co,617,Port Everglades,FL,52.41666667,11103.70954,248
+57,6452,Florida Power & Light Co,617,Port Everglades,FL,51.58333333,11103.70954,248
+58,6452,Florida Power & Light Co,617,Port Everglades,FL,48.5,11103.70954,402
+59,6452,Florida Power & Light Co,617,Port Everglades,FL,47.75,11103.70954,402
+60,6452,Florida Power & Light Co,619,Riviera,FL,48.66666667,10808.06544,310.4
+61,6452,Florida Power & Light Co,619,Riviera,FL,47.91666667,10808.06544,310.4
+62,6452,Florida Power & Light Co,620,Sanford,FL,53.5,12589.21092,156.2
+63,6452,Florida Power & Light Co,621,Turkey Point,FL,49.5,10485.00009,402
+64,6452,Florida Power & Light Co,621,Turkey Point,FL,45.66666667,10485.00009,402
+68,6455,"Duke Energy Florida, LLC",634,P L Bartow,FL,50.75,10901.18544,127.5
+69,6455,"Duke Energy Florida, LLC",634,P L Bartow,FL,47.83333333,10901.18544,127.5
+70,6455,"Duke Energy Florida, LLC",634,P L Bartow,FL,45.91666667,10901.18544,239.3
+71,6455,"Duke Energy Florida, LLC",638,Suwannee River,FL,60.16666667,12349.5087,75
+72,6452,Florida Power & Light Co,643,Lansing Smith,FL,50.75,10300.52833,149.6
+73,6452,Florida Power & Light Co,643,Lansing Smith,FL,48.75,10300.52833,190.4
+74,18454,Tampa Electric Co,645,Big Bend,FL,48.66666667,10836.04369,445.5
+75,10623,City of Lakeland - (FL),676,C D McIntosh Jr,FL,38.58333333,10489.94201,363.8
+76,10623,City of Lakeland - (FL),676,C D McIntosh Jr,FL,44.83333333,10489.94201,103.5
+77,10623,City of Lakeland - (FL),676,C D McIntosh Jr,FL,44,10489.94201,126
+78,18445,City of Tallahassee - (FL),688,Arvah B Hopkins,FL,47.5,11529.30217,75
+79,7140,Georgia Power Co,708,Hammond,GA,65.08333333,10222.82831,125
+80,7140,Georgia Power Co,708,Hammond,GA,64.83333333,10222.82831,125
+81,7140,Georgia Power Co,708,Hammond,GA,64.08333333,10222.82831,125
+82,7140,Georgia Power Co,708,Hammond,GA,48.58333333,10222.82831,578
+83,7140,Georgia Power Co,709,Harllee Branch,GA,49.83333333,9802.376354,299.2
+84,7140,Georgia Power Co,709,Harllee Branch,GA,46.25,9802.376354,359
+85,7140,Georgia Power Co,709,Harllee Branch,GA,46.75,9802.376354,544
+86,7140,Georgia Power Co,709,Harllee Branch,GA,45.83333333,9802.376354,544
+87,7140,Georgia Power Co,710,Jack McDonough,GA,48.5,9841.152526,299.2
+88,7140,Georgia Power Co,710,Jack McDonough,GA,47.25,9841.152526,299.2
+89,7140,Georgia Power Co,715,McManus,GA,55.83333333,17405.7549,93.7
+90,7140,Georgia Power Co,727,Mitchell (GA),GA,52.25,10656.31945,163.2
+91,7140,Georgia Power Co,728,Yates,GA,64.58333333,10525.59062,122.5
+92,7140,Georgia Power Co,728,Yates,GA,64.41666667,10525.59062,122.5
+93,7140,Georgia Power Co,728,Yates,GA,62.66666667,10525.59062,122.5
+94,7140,Georgia Power Co,728,Yates,GA,57.83333333,10525.59062,156.2
+95,7140,Georgia Power Co,728,Yates,GA,56.91666667,10525.59062,156.2
+96,7140,Georgia Power Co,733,Kraft,GA,50.41666667,11468.67927,103.5
+97,7140,Georgia Power Co,733,Kraft,GA,43.58333333,11468.67927,126
+98,49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,55.58333333,10426.55703,136
+99,49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,54.5,10426.55703,280.5
+100,49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,50.5,10426.55703,363.8
+101,520,Illinois Power Generating Co,861,Coffeen,IL,53.91666667,10352.98724,388.9
+102,520,Illinois Power Generating Co,861,Coffeen,IL,47.16666667,10352.98724,616.5
+103,12384,Midwest Generations EME LLC,867,Crawford,IL,54.25,10648.74365,239.3
+104,12384,Midwest Generations EME LLC,867,Crawford,IL,51.33333333,10648.74365,358.1
+105,12384,Midwest Generations EME LLC,883,Waukegan,IL,55.91666667,10415.47598,121
+106,12384,Midwest Generations EME LLC,883,Waukegan,IL,64,10415.47598,326.4
+107,12384,Midwest Generations EME LLC,883,Waukegan,IL,59.91666667,10415.47598,355.3
+108,12384,Midwest Generations EME LLC,884,Will County,IL,55.41666667,10568.91027,187.5
+109,12384,Midwest Generations EME LLC,884,Will County,IL,55.75,10568.91027,183.7
+110,12384,Midwest Generations EME LLC,884,Will County,IL,57.83333333,10568.91027,299.2
+111,12384,Midwest Generations EME LLC,884,Will County,IL,59,10568.91027,598.4
+112,12384,Midwest Generations EME LLC,886,Fisk Street,IL,44.08333333,10967.63724,374
+113,5748,Electric Energy Inc,887,Joppa Steam,IL,69,10322.05502,183.3
+114,5748,Electric Energy Inc,887,Joppa Steam,IL,68.91666667,10322.05502,183.3
+115,5748,Electric Energy Inc,887,Joppa Steam,IL,68.25,10322.05502,183.3
+116,5748,Electric Energy Inc,887,Joppa Steam,IL,68,10322.05502,183.3
+117,5748,Electric Energy Inc,887,Joppa Steam,IL,67.16666667,10322.05502,183.3
+118,5748,Electric Energy Inc,887,Joppa Steam,IL,67,10322.05502,183.3
+119,5517,Dynegy Midwest Generation Inc,889,Baldwin Energy Complex,IL,45.33333333,10134.02837,634.5
+120,5517,Dynegy Midwest Generation Inc,891,Havana,IL,41.41666667,11311.65214,488
+121,5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,IL,66.41666667,10577.05682,75
+122,5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,IL,60.5,10577.05682,231.3
+123,5517,Dynegy Midwest Generation Inc,897,Vermilion,IL,55,12217.71651,108.8
+124,5517,Dynegy Midwest Generation Inc,898,Wood River,IL,61.91666667,10678.80347,112.5
+125,5517,Dynegy Midwest Generation Inc,898,Wood River,IL,51.83333333,10678.80347,387.6
+126,17828,City of Springfield - (IL),963,Dallman,IL,52.5,11614.5618,90.2
+127,17828,City of Springfield - (IL),963,Dallman,IL,48.5,11614.5618,90.2
+128,17632,Southern Illinois Power Coop,976,Marion,IL,42.08333333,12383.35321,173
+129,9324,Indiana Michigan Power Co,988,Tanners Creek,IN,64.25,9052.255188,152.5
+130,9324,Indiana Michigan Power Co,988,Tanners Creek,IN,62.58333333,9052.255188,152.5
+131,9324,Indiana Michigan Power Co,988,Tanners Creek,IN,60.5,9052.255188,215.4
+132,9324,Indiana Michigan Power Co,988,Tanners Creek,IN,50.91666667,9052.255188,579.7
+133,9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),IN,59.5,11509.86734,113.6
+134,9273,Indianapolis Power & Light Co,994,AES Petersburg,IN,53.91666667,10695.8346,281.6
+135,13756,Northern Indiana Pub Serv Co,995,Bailly,IN,55.58333333,11094.13785,190.4
+136,13756,Northern Indiana Pub Serv Co,995,Bailly,IN,49.91666667,11094.13785,413.1
+137,15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,52.66666667,10794.73668,150
+138,15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,62.5,10794.73668,150
+139,15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,51.83333333,10794.73668,150
+140,15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,60.25,10794.73668,150
+141,15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,62.66666667,10559.50713,112.5
+142,15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,61.58333333,10559.50713,123.2
+143,15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,61.25,10559.50713,112.5
+144,15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,59.91666667,10559.50713,125
+145,15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,48.33333333,10559.50713,387
+146,9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,IN,44.91666667,10028.24988,116.6
+147,9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,IN,44.91666667,10028.24988,116.6
+148,9417,Interstate Power and Light Co,1048,Milton L Kapp,IA,51.41666667,11840.33115,218.5
+149,9417,Interstate Power and Light Co,1077,Sutherland,IA,56.41666667,11920.31001,81.6
+150,12341,MidAmerican Energy Co,1081,Riverside,IA,59.58333333,13428.27928,136
+151,12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,IA,56.41666667,9720.975442,81.6
+152,12341,MidAmerican Energy Co,1091,George Neal North,IA,51.91666667,10413.8134,147
+153,12341,MidAmerican Energy Co,1091,George Neal North,IA,43.91666667,10413.8134,349.2
+154,10005,"Evergy Kansas South, Inc",1240,Gordon Evans Energy Center,KS,57.33333333,12098.10175,136
+155,10005,"Evergy Kansas South, Inc",1240,Gordon Evans Energy Center,KS,51.33333333,12098.10175,390
+156,10005,"Evergy Kansas South, Inc",1242,Murray Gill,KS,60.83333333,13487.09033,75
+157,10005,"Evergy Kansas South, Inc",1242,Murray Gill,KS,62.41666667,13487.09033,114
+158,10005,"Evergy Kansas South, Inc",1242,Murray Gill,KS,59.58333333,13487.09033,114
+159,22500,"Evergy Kansas Central, Inc",1248,Hutchinson Energy Center,KS,50.5,11860.83575,172
+160,22500,"Evergy Kansas Central, Inc",1252,Tecumseh Energy Center,KS,61.16666667,11424.48398,82
+161,22500,"Evergy Kansas Central, Inc",1252,Tecumseh Energy Center,KS,53.58333333,11424.48398,150
+162,22053,Kentucky Power Co,1353,Big Sandy,KY,45.58333333,9674.403486,816.3
+163,10171,Kentucky Utilities Co,1355,E W Brown,KY,61.75,10419.7571,113.6
+164,10171,Kentucky Utilities Co,1355,E W Brown,KY,55.66666667,10419.7571,179.5
+165,10171,Kentucky Utilities Co,1357,Green River,KY,61.5,11680.84854,75
+166,10171,Kentucky Utilities Co,1357,Green River,KY,56.25,11680.84854,113.6
+167,10171,Kentucky Utilities Co,1361,Tyrone,KY,59.58333333,12961.29832,75
+168,11249,Louisville Gas & Electric Co,1363,Cane Run,KY,53.08333333,10603.57071,163.2
+169,11249,Louisville Gas & Electric Co,1363,Cane Run,KY,49.08333333,10603.57071,209.4
+170,11249,Louisville Gas & Electric Co,1363,Cane Run,KY,45.91666667,10603.57071,272
+171,18642,Tennessee Valley Authority,1378,Paradise,KY,53.41666667,10040.99907,704
+172,18642,Tennessee Valley Authority,1378,Paradise,KY,53.91666667,10040.99907,704
+173,18642,Tennessee Valley Authority,1378,Paradise,KY,49.91666667,10040.99907,1150.2
+174,18642,Tennessee Valley Authority,1379,Shawnee,KY,57.66666667,10917.30917,175
+175,1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,51,11166.79781,205
+176,1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,50.16666667,11166.79781,205
+177,1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,48.75,11166.79781,192
+178,1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,KY,45.66666667,11449.95851,200
+179,1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,KY,44.83333333,11449.95851,205
+180,1692,Big Rivers Electric Corp,1383,Robert A Reid,KY,54.66666667,13756.64102,96
+181,5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,58.5,11913.85813,81
+182,5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,55.66666667,11913.85813,81
+183,11241,Entergy Louisiana LLC,1393,R S Nelson,LA,57,12145.0726,163.2
+184,11241,Entergy Louisiana LLC,1394,Willow Glen,LA,56.75,14295.22583,163.2
+185,11241,Entergy Louisiana LLC,1394,Willow Glen,LA,54.16666667,14295.22583,239.4
+186,11241,Entergy Louisiana LLC,1394,Willow Glen,LA,47.83333333,14295.22583,591.8
+187,11241,Entergy Louisiana LLC,1394,Willow Glen,LA,45.16666667,14295.22583,591.8
+188,11241,Entergy Louisiana LLC,1394,Willow Glen,LA,40.75,14295.22583,591.8
+189,11241,Entergy Louisiana LLC,1402,Little Gypsy,LA,54.25,14371.86571,247.7
+190,11241,Entergy Louisiana LLC,1403,Nine Mile Point,LA,58.16666667,12164.77433,112.5
+191,11241,Entergy Louisiana LLC,1403,Nine Mile Point,LA,61,12164.77433,169.8
+192,13478,"Entergy New Orleans, LLC",1409,Michoud,LA,54.33333333,11838.73265,115.2
+193,13478,"Entergy New Orleans, LLC",1409,Michoud,LA,53.33333333,11838.73265,261.8
+194,13478,"Entergy New Orleans, LLC",1409,Michoud,LA,48.83333333,11838.73265,582.2
+195,50111,Lafayette Utilities System,1443,Louis Doc Bonin,LA,46.83333333,14734.19745,100
+196,50111,Lafayette Utilities System,1443,Louis Doc Bonin,LA,40.25,14734.19745,187
+197,60422,H.A. Wagner LLC,1554,Herbert A Wagner,MD,61.41666667,10614.15255,136
+198,12653,"Lanyard Power Holdings, LLC",1573,Morgantown Generating Plant,MD,52,9414.194209,626
+199,12653,"Lanyard Power Holdings, LLC",1573,Morgantown Generating Plant,MD,51,9414.194209,626
+200,49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,MA,46.08333333,13664.96273,156.2
+201,49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,MA,44.5,13664.96273,156.2
+202,49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,MA,42.66666667,13664.96273,156.2
+203,49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,MA,46,13664.96273,617
+204,6035,"Constellation Power, Inc",1589,New Boston Generating Station,MA,42.08333333,11604.19338,359
+205,6035,"Constellation Power, Inc",1589,New Boston Generating Station,MA,35.33333333,11604.19338,358.7
+206,59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,62.41666667,10872.32998,81.9
+207,59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,61.75,10872.32998,82
+208,59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,55.83333333,10872.32998,165.7
+209,59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,41.5,10872.32998,475.5
+210,56401,NAEA Energy Massachusetts LLC,1642,Essential Power Massachusetts LLC,MA,64.5,12044.73882,113.6
+211,4254,Consumers Energy Co,1695,B C Cobb,MI,59.58333333,10293.13059,156.3
+212,4254,Consumers Energy Co,1695,B C Cobb,MI,59.08333333,10293.13059,156.3
+214,4254,Consumers Energy Co,1720,J C Weadock,MI,60.91666667,9841.077233,156.3
+215,4254,Consumers Energy Co,1720,J C Weadock,MI,58.25,9841.077233,156.3
+216,4254,Consumers Energy Co,1723,J R Whiting,MI,63.75,10995.46044,106.3
+217,4254,Consumers Energy Co,1723,J R Whiting,MI,63.33333333,10995.46044,106.3
+218,4254,Consumers Energy Co,1723,J R Whiting,MI,62.41666667,10995.46044,132.8
+219,5109,DTE Electric Company,1726,Conners Creek,MI,62,16055.8042,135
+220,5109,DTE Electric Company,1726,Conners Creek,MI,61.58333333,16055.8042,135
+221,5109,DTE Electric Company,1731,Harbor Beach,MI,45.58333333,11846.70317,121
+222,5109,DTE Electric Company,1740,River Rouge,MI,60.83333333,10327.71045,282.6
+223,5109,DTE Electric Company,1740,River Rouge,MI,58.58333333,10327.71045,292.5
+224,5109,DTE Electric Company,1740,River Rouge,MI,62.58333333,10327.71045,358.1
+225,5109,DTE Electric Company,1743,St Clair,MI,65.58333333,10755.53761,168.7
+226,5109,DTE Electric Company,1743,St Clair,MI,69.08333333,10755.53761,156.2
+227,5109,DTE Electric Company,1743,St Clair,MI,68.5,10755.53761,156.2
+228,5109,DTE Electric Company,1743,St Clair,MI,63.08333333,10755.53761,168.7
+229,5109,DTE Electric Company,1743,St Clair,MI,20.75,10755.53761,357.7
+230,5109,DTE Electric Company,1743,St Clair,MI,61.66666667,10755.53761,352.7
+231,5109,DTE Electric Company,1743,St Clair,MI,53.66666667,10755.53761,544.5
+232,5109,DTE Electric Company,1745,Trenton Channel,MI,66.83333333,10694.61621,120
+233,5109,DTE Electric Company,1745,Trenton Channel,MI,65.16666667,10694.61621,120
+234,5109,DTE Electric Company,1745,Trenton Channel,MI,54.91666667,10694.61621,535.5
+235,20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,44.25,11870.94209,90
+236,20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,43.91666667,11870.94209,90
+237,20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,40.75,11870.94209,90
+238,20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,40.33333333,11870.94209,90
+239,20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,39.58333333,11870.94209,90
+240,56155,Lansing Board of Water and Light,1831,Eckert Station,MI,56.41666667,12897.18554,80
+241,56155,Lansing Board of Water and Light,1831,Eckert Station,MI,52.5,12897.18554,80
+242,56155,Lansing Board of Water and Light,1831,Eckert Station,MI,50.33333333,12897.18554,80
+243,56155,Lansing Board of Water and Light,1832,Erickson Station,MI,49.75,10836.30953,154.7
+244,9417,Interstate Power and Light Co,1888,Fox Lake,MN,55.41666667,11736.41023,81.6
+245,12647,"ALLETE, Inc.",1893,Clay Boswell,MN,60.41666667,11015.01485,75
+246,12647,"ALLETE, Inc.",1893,Clay Boswell,MN,58.91666667,11015.01485,75
+247,13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,49.83333333,10508.27345,81
+248,13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,59.75,10508.27345,113.6
+249,13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,54.58333333,10508.27345,163.2
+250,13781,Northern States Power Co - Minnesota,1912,High Bridge,MN,51.33333333,12044.40652,113.6
+251,13781,Northern States Power Co - Minnesota,1912,High Bridge,MN,48.66666667,12044.40652,163.2
+252,13781,Northern States Power Co - Minnesota,1927,Riverside (MN),MN,45,10914.38788,238.8
+253,14232,Otter Tail Power Co,1943,Hoot Lake,MN,57.08333333,11445.46279,75
+254,12686,Mississippi Power Co,2049,Jack Watson,MS,58.08333333,10059.13299,93.8
+255,12686,Mississippi Power Co,2049,Jack Watson,MS,55.16666667,10059.13299,93.8
+256,12686,Mississippi Power Co,2049,Jack Watson,MS,55.75,10059.13299,108.8
+257,12685,Entergy Mississippi LLC,2050,Baxter Wilson,MS,46.66666667,12510.64242,783
+258,12685,Entergy Mississippi LLC,2053,Rex Brown,MS,59.91666667,14138.43888,238.7
+259,5860,Empire District Electric Co,2076,Asbury,MO,49.75,31173.56259,212.8
+260,10000,Evergy Metro,2080,Montrose,MO,57.75,11073.08008,188
+261,10000,Evergy Metro,2080,Montrose,MO,58.66666667,11073.08008,188
+262,10000,Evergy Metro,2080,Montrose,MO,54.58333333,11073.08008,188
+263,56211,Evergy Missouri West,2094,Sibley,MO,49.5,10734.04717,419
+264,19436,Union Electric Co - (MO),2104,Meramec,MO,69.58333333,10937.4381,137.5
+265,19436,Union Electric Co - (MO),2104,Meramec,MO,68.41666667,10937.4381,137.5
+266,19436,Union Electric Co - (MO),2104,Meramec,MO,63.91666667,10937.4381,289
+267,19436,Union Electric Co - (MO),2104,Meramec,MO,61.41666667,10937.4381,359
+268,17833,City Utilities of Springfield - (MO),2161,James River Power Station,MO,50.58333333,11730.22574,105
+269,15298,Talen Montana LLC,2187,J E Corette Plant,MT,46.75,10877.73066,172.8
+271,13407,Nevada Power Co,2324,Reid Gardner,NV,49.5,11408.61741,114
+272,13407,Nevada Power Co,2324,Reid Gardner,NV,46.5,11408.61741,114
+273,13407,Nevada Power Co,2324,Reid Gardner,NV,38.58333333,11408.61741,114
+274,13407,Nevada Power Co,2324,Reid Gardner,NV,33.66666667,11408.61741,294.8
+275,13407,Nevada Power Co,2326,Sunrise,NV,47.58333333,11901.38504,81.6
+276,17166,Sierra Pacific Power Co,2336,Tracy,NV,49.16666667,11897.64582,75
+277,56606,Calpine New Jersey Generation LLC,2384,Deepwater,NJ,55.5,10719.83817,81.6
+279,15147,PSEG Fossil LLC,2403,PSEG Hudson Generating Station,NJ,47,11324.98161,454.7
+280,15147,PSEG Fossil LLC,2403,PSEG Hudson Generating Station,NJ,48.5,11324.98161,659.7
+281,15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,NJ,56.5,10445.83126,326.4
+282,15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,NJ,56,10445.83126,326.4
+283,65391,Sewaren Generating Station,2411,PSEG Sewaren Generating Station,NJ,69.41666667,15524.10306,110.7
+284,65391,Sewaren Generating Station,2411,PSEG Sewaren Generating Station,NJ,69.5,15524.10306,107.5
+285,65391,Sewaren Generating Station,2411,PSEG Sewaren Generating Station,NJ,68.58333333,15524.10306,107.5
+286,65391,Sewaren Generating Station,2411,PSEG Sewaren Generating Station,NJ,66.83333333,15524.10306,126.5
+287,803,Arizona Public Service Co,2442,Four Corners,NM,50.58333333,10204.18236,190
+288,803,Arizona Public Service Co,2442,Four Corners,NM,50.5,10204.18236,190
+289,803,Arizona Public Service Co,2442,Four Corners,NM,49.33333333,10204.18236,253.4
+290,15473,Public Service Co of NM,2451,San Juan,NM,45.5,11514.91732,369
+291,15473,Public Service Co of NM,2451,San Juan,NM,44.08333333,11514.91732,369
+292,15473,Public Service Co of NM,2451,San Juan,NM,38,11514.91732,555
+293,15473,Public Service Co of NM,2451,San Juan,NM,40.41666667,11514.91732,555
+294,15296,New York Power Authority,2491,Charles Poletti,NY,32.91666667,10973.21539,883
+295,56505,National Grid Generation LLC,2513,Far Rockaway,NY,58.58333333,11368.93317,100
+296,56505,National Grid Generation LLC,2514,Glenwood,NY,59.58333333,12499.88074,114
+297,56505,National Grid Generation LLC,2514,Glenwood,NY,57.66666667,12499.88074,114
+298,13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,71.41666667,10681.87113,96
+299,13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,68.08333333,10681.87113,96
+300,13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,62.58333333,10681.87113,217.6
+301,13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,61.66666667,10681.87113,217.6
+302,64701,Oswego Harbor Power,2594,Oswego Harbor Power,NY,55,11487.88537,92
+303,16183,Rochester Gas & Electric Corp,2642,Rochester 7,NY,51.08333333,11483.51404,81.6
+304,3046,Duke Energy Progress - (NC),2706,Asheville,NC,55.66666667,10604.62012,206.6
+305,3046,Duke Energy Progress - (NC),2706,Asheville,NC,48.66666667,10604.62012,207
+306,3046,Duke Energy Progress - (NC),2708,Cape Fear,NC,55.83333333,10532.69049,140.6
+307,3046,Duke Energy Progress - (NC),2708,Cape Fear,NC,54.25,10532.69049,187.9
+308,3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,60.33333333,10467.40466,75
+309,3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,61.41666667,10467.40466,75
+310,3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,50.16666667,10467.40466,252.4
+311,3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,59.25,11172.96244,112.5
+312,3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,58.5,11172.96244,112.5
+313,3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,41.41666667,11172.96244,446.6
+314,5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,64.08333333,10026.34408,163.2
+315,5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,61.41666667,10026.34408,272
+316,5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,61.16666667,10026.34408,278
+317,5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,69.83333333,11047.38391,80
+318,5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,59.66666667,11047.38391,125
+319,5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,59.41666667,11047.38391,125
+320,5416,"Duke Energy Carolinas, LLC",2723,Dan River,NC,56.66666667,11268.49981,150
+321,5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,60.58333333,10587.10395,100
+322,5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,60.5,10587.10395,100
+323,5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,58.75,10587.10395,133
+324,5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,58.5,10587.10395,133
+325,12199,Montana-Dakota Utilities Co,2790,R M Heskett,ND,58.16666667,13473.90355,75
+326,7570,Great River Energy,2824,Stanton,ND,49.91666667,10546.30377,190.2
+327,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,59.91666667,10861.89774,115
+328,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,60,10861.89774,112.5
+329,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,58.91666667,10861.89774,125
+330,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,55.58333333,10861.89774,163.2
+331,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,51.83333333,10861.89774,244.8
+332,3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,45.25,10861.89774,460.8
+333,59919,Luminant Miami Fort,2832,Miami Fort,OH,58.08333333,10287.83178,100
+334,59919,Luminant Miami Fort,2832,Miami Fort,OH,54.58333333,10287.83178,163.2
+335,14165,"GenOn Power Midwest, LP",2836,Avon Lake,OH,53,9889.504407,75
+336,14165,"GenOn Power Midwest, LP",2836,Avon Lake,OH,67.33333333,9889.504407,86
+337,14165,"GenOn Power Midwest, LP",2836,Avon Lake,OH,52.16666667,9889.504407,680
+338,63030,"Niles Power, LLC",2861,Niles Power Plant,OH,58.75,11537.33494,132.8
+339,63030,"Niles Power, LLC",2861,Niles Power Plant,OH,58.41666667,11537.33494,132.8
+340,64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,60.75,10062.26596,190.4
+341,64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,59.83333333,10062.26596,190.4
+342,64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,58.83333333,10062.26596,190.4
+343,64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,57.5,10062.26596,190.4
+344,62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,53.58333333,10386.89494,140.6
+345,62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,49.33333333,10386.89494,140.6
+346,62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,44.25,10386.89494,217.6
+347,14063,Oklahoma Gas & Electric Co,2952,Muskogee,OK,54.58333333,10477.69264,173
+348,14063,Oklahoma Gas & Electric Co,2953,Mustang,OK,65.58333333,10646.10408,82
+349,14063,Oklahoma Gas & Electric Co,2953,Mustang,OK,62.5,10646.10408,133
+350,14063,Oklahoma Gas & Electric Co,2953,Mustang,OK,58.5,10646.10408,253
+351,15474,Public Service Co of Oklahoma,2963,Northeastern,OK,35.58333333,9639.117567,473
+352,15474,Public Service Co of Oklahoma,2965,Tulsa,OK,64.08333333,13933.59447,95
+353,14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,61.91666667,11875.6006,100
+354,14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,61.16666667,11875.6006,100
+355,14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,59.5,11875.6006,125
+356,14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,53.41666667,11875.6006,185
+357,63039,"Portland Power, LLC",3113,Portland (PA),PA,55.66666667,10391.67728,172
+358,63039,"Portland Power, LLC",3113,Portland (PA),PA,50.75,10391.67728,255
+359,63041,"Titus Power, LLC",3115,Titus,PA,62.5,11012.12073,75
+360,63041,"Titus Power, LLC",3115,Titus,PA,62.25,11012.12073,75
+361,63041,"Titus Power, LLC",3115,Titus,PA,60.41666667,11012.12073,75
+362,61781,Seward Generating LLC,3130,Seward (PA),PA,46.58333333,10680.66868,156.2
+363,15276,TalenEnergy Martins Creek LLC,3148,TalenEnergy Martins Creek,PA,53,11651.71655,156.2
+364,15276,TalenEnergy Martins Creek LLC,3148,TalenEnergy Martins Creek,PA,51.25,11651.71655,156.2
+365,22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,64.66666667,12741.33541,89.1
+366,22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,64.83333333,12741.33541,89.1
+367,22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,63.25,12741.33541,103.5
+368,22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,60.91666667,12741.33541,156.2
+369,6035,"Constellation Power, Inc",3159,Cromby Generating Station,PA,56.83333333,11599.21969,187.5
+370,6035,"Constellation Power, Inc",3159,Cromby Generating Station,PA,56.25,11599.21969,230
+371,6035,"Constellation Power, Inc",3161,Eddystone Generating Station,PA,51.25,11862.82067,353.6
+372,6035,"Constellation Power, Inc",3161,Eddystone Generating Station,PA,51.58333333,11862.82067,353.6
+373,6035,"Constellation Power, Inc",3169,Schuylkill Generating Station,PA,54.41666667,18625.87771,190.4
+374,3046,Duke Energy Progress - (NC),3251,H B Robinson,SC,52.41666667,10484.99989,206.6
+375,5416,"Duke Energy Carolinas, LLC",3264,W S Lee,SC,63.66666667,10827.72267,90
+376,5416,"Duke Energy Carolinas, LLC",3264,W S Lee,SC,63.33333333,10827.72267,90
+377,5416,"Duke Energy Carolinas, LLC",3264,W S Lee,SC,63.25,10827.72267,163.2
+378,17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,50.66666667,10266.60226,136
+379,17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,49.5,10266.60226,136
+380,17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,46.41666667,10266.60226,217.6
+381,17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,SC,46.5,10710.41676,81.6
+382,17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,SC,46.5,10710.41676,81.6
+383,17543,South Carolina Public Service Authority,3319,Jefferies,SC,42.91666667,10588.44416,172.8
+384,17543,South Carolina Public Service Authority,3319,Jefferies,SC,42.91666667,10588.44416,172.8
+385,18642,Tennessee Valley Authority,3393,Allen,TN,58.83333333,10069.84723,330
+386,18642,Tennessee Valley Authority,3393,Allen,TN,58.83333333,10069.84723,330
+387,18642,Tennessee Valley Authority,3393,Allen,TN,58.41666667,10069.84723,330
+388,18642,Tennessee Valley Authority,3405,John Sevier,TN,57.41666667,10162.59172,200
+389,18642,Tennessee Valley Authority,3405,John Sevier,TN,57.25,10162.59172,200
+390,18642,Tennessee Valley Authority,3405,John Sevier,TN,58.33333333,10162.59172,200
+391,18642,Tennessee Valley Authority,3405,John Sevier,TN,56.66666667,10162.59172,200
+392,18642,Tennessee Valley Authority,3406,Johnsonville,TN,66.16666667,11039.21677,125
+393,18642,Tennessee Valley Authority,3406,Johnsonville,TN,56.33333333,11039.21677,172.8
+394,18642,Tennessee Valley Authority,3406,Johnsonville,TN,66.08333333,11039.21677,125
+395,18642,Tennessee Valley Authority,3406,Johnsonville,TN,65.83333333,11039.21677,125
+396,18642,Tennessee Valley Authority,3406,Johnsonville,TN,65.66666667,11039.21677,125
+397,18642,Tennessee Valley Authority,3406,Johnsonville,TN,63.08333333,11039.21677,147
+398,18642,Tennessee Valley Authority,3406,Johnsonville,TN,62.83333333,11039.21677,147
+399,18642,Tennessee Valley Authority,3406,Johnsonville,TN,57.08333333,11039.21677,172.8
+400,18642,Tennessee Valley Authority,3406,Johnsonville,TN,56.91666667,11039.21677,172.8
+401,18642,Tennessee Valley Authority,3406,Johnsonville,TN,56.5,11039.21677,172.8
+402,49979,"Talen Texas, LLC",3439,Laredo,TX,33.08333333,12223.37358,115.2
+403,55983,Luminant Generation Company LLC,3454,North Lake,TX,49.41666667,11065.97524,176.8
+404,55983,Luminant Generation Company LLC,3454,North Lake,TX,47.41666667,11065.97524,170.4
+405,55983,Luminant Generation Company LLC,3454,North Lake,TX,44.83333333,11065.97524,361.3
+406,55937,Entergy Texas Inc.,3459,Sabine,TX,53.83333333,11665.54042,239.4
+407,54888,NRG Texas Power LLC,3460,Cedar Bayou,TX,32.58333333,11263.56546,765
+408,54888,NRG Texas Power LLC,3464,Greens Bayou,TX,44.5,13516.39882,446.4
+409,54888,NRG Texas Power LLC,3468,Sam Bertron,TX,58.66666667,12604.80211,225.3
+410,54888,NRG Texas Power LLC,3468,Sam Bertron,TX,57.75,12604.80211,225.3
+411,54888,NRG Texas Power LLC,3468,Sam Bertron,TX,60.83333333,12604.80211,187.8
+412,54888,NRG Texas Power LLC,3468,Sam Bertron,TX,62.75,12604.80211,187.8
+413,17718,Southwestern Public Service Co,3485,Plant X,TX,67.91666667,11476.97739,98
+414,55983,Luminant Generation Company LLC,3492,Morgan Creek,TX,49.75,13196.60714,75
+415,55983,Luminant Generation Company LLC,3492,Morgan Creek,TX,52.66666667,13196.60714,170.4
+416,55983,Luminant Generation Company LLC,3492,Morgan Creek,TX,45.58333333,13196.60714,517.5
+417,55983,Luminant Generation Company LLC,3494,Permian Basin,TX,57.66666667,15886.36855,114.9
+418,55983,Luminant Generation Company LLC,3494,Permian Basin,TX,42.16666667,15886.36855,535.5
+419,55983,Luminant Generation Company LLC,3497,Big Brown,TX,46.16666667,10801.61654,593.4
+420,55983,Luminant Generation Company LLC,3497,Big Brown,TX,45.16666667,10801.61654,593.4
+421,55983,Luminant Generation Company LLC,3502,Lake Creek,TX,61.66666667,14243.76169,79.6
+422,55983,Luminant Generation Company LLC,3502,Lake Creek,TX,55.41666667,14243.76169,236
+423,1015,Austin Energy,3548,Decker Creek,TX,49.25,10361.21425,321
+424,1015,Austin Energy,3548,Decker Creek,TX,44.16666667,10361.21425,405
+425,1015,Austin Energy,3549,Holly Street,TX,44.08333333,11613.25183,100
+426,1015,Austin Energy,3549,Holly Street,TX,40.5,11613.25183,100
+427,1015,Austin Energy,3549,Holly Street,TX,40.16666667,11613.25183,165
+428,1015,Austin Energy,3549,Holly Street,TX,33.16666667,11613.25183,193
+429,16604,City of San Antonio - (TX),3609,Leon Creek,TX,60.08333333,19246.39141,75
+430,16604,City of San Antonio - (TX),3609,Leon Creek,TX,54.08333333,19246.39141,113.7
+431,16604,City of San Antonio - (TX),3613,W B Tuttle,TX,56.75,17881.57593,75
+432,16604,City of San Antonio - (TX),3613,W B Tuttle,TX,50.83333333,17881.57593,113.6
+433,16604,City of San Antonio - (TX),3613,W B Tuttle,TX,50,17881.57593,113.6
+434,16604,City of San Antonio - (TX),3613,W B Tuttle,TX,48,17881.57593,191.7
+435,14354,PacifiCorp,3644,Carbon,UT,60.41666667,11508.14376,75
+436,14354,PacifiCorp,3644,Carbon,UT,57.58333333,11508.14376,113.6
+437,733,Appalachian Power Co,3775,Clinch River,VA,54,9772.345971,237.5
+438,733,Appalachian Power Co,3776,Glen Lyn,VA,71,10704.33392,100
+439,733,Appalachian Power Co,3776,Glen Lyn,VA,58.08333333,10704.33392,237.5
+440,19876,Virginia Electric & Power Co,3796,Bremo Bluff,VA,60.58333333,11254.24722,185.2
+441,19876,Virginia Electric & Power Co,3797,Chesterfield,VA,66.25,10350.4427,112.5
+442,19876,Virginia Electric & Power Co,3797,Chesterfield,VA,58.75,10350.4427,187.5
+443,19876,Virginia Electric & Power Co,3803,Chesapeake,VA,55.58333333,10795.71457,185.2
+444,19876,Virginia Electric & Power Co,3803,Chesapeake,VA,61.58333333,10795.71457,112.5
+445,19876,Virginia Electric & Power Co,3803,Chesapeake,VA,60.08333333,10795.71457,112.5
+446,19876,Virginia Electric & Power Co,3803,Chesapeake,VA,52.66666667,10795.71457,239.3
+447,19876,Virginia Electric & Power Co,3804,Possum Point,VA,63.75,10301.28081,113.6
+448,19876,Virginia Electric & Power Co,3804,Possum Point,VA,56.91666667,10301.28081,239.3
+449,19876,Virginia Electric & Power Co,3804,Possum Point,VA,45.5,10301.28081,882
+450,19876,Virginia Electric & Power Co,3809,Yorktown,VA,61.66666667,10255.39329,187.5
+451,19876,Virginia Electric & Power Co,3809,Yorktown,VA,60.16666667,10255.39329,187.5
+452,19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,WA,48,10873.28727,729.9
+453,733,Appalachian Power Co,3936,Kanawha River,WV,64.41666667,9875.170443,219.6
+454,733,Appalachian Power Co,3936,Kanawha River,WV,64,9875.170443,219.6
+455,733,Appalachian Power Co,3938,Philip Sporn,WV,65.83333333,9960.988947,152.5
+456,733,Appalachian Power Co,3938,Philip Sporn,WV,65.33333333,9960.988947,152.5
+457,733,Appalachian Power Co,3938,Philip Sporn,WV,64.25,9960.988947,152.5
+458,733,Appalachian Power Co,3938,Philip Sporn,WV,63.75,9960.988947,152.5
+459,733,Appalachian Power Co,3938,Philip Sporn,WV,51.16666667,9960.988947,495.5
+460,12796,Monongahela Power Co,3942,FirstEnergy Albright,WV,57.91666667,11494.02982,140.2
+461,12796,Monongahela Power Co,3946,FirstEnergy Willow Island,WV,51.91666667,12499.35043,163.2
+462,20856,Wisconsin Power & Light Co,4050,Edgewater,WI,48.75,10193.23257,351
+463,20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,WI,56,11400.02562,113.6
+464,20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,WI,53,11400.02562,113.6
+465,20856,Wisconsin Power & Light Co,4057,Rock River,WI,56.25,16264.49412,75
+466,20856,Wisconsin Power & Light Co,4057,Rock River,WI,54.58333333,16264.49412,75
+467,20860,Wisconsin Public Service Corp,4072,Pulliam,WI,59.91666667,12336.83288,81.6
+468,20860,Wisconsin Public Service Corp,4072,Pulliam,WI,53.83333333,12336.83288,149.6
+469,4716,Dairyland Power Coop,4140,Alma,WI,54.75,11700.40885,81.6
+470,4716,Dairyland Power Coop,4143,Genoa,WI,52,9734.017003,345.6
+471,11269,Lower Colorado River Authority,4937,Thomas C Ferguson,TX,39.08333333,11255.62939,446
+472,16572,Salt River Project,4941,Navajo,AZ,45.5,10168.20059,803.1
+473,16572,Salt River Project,4941,Navajo,AZ,44.58333333,10168.20059,803.1
+474,16572,Salt River Project,4941,Navajo,AZ,43.41666667,10168.20059,803.1
+475,49756,Illinois Power Resources Generating LLC,6016,Duck Creek,IL,43.5,11622.31019,441
+476,520,Illinois Power Generating Co,6017,Newton,IL,33.75,10700.23327,617.4
+477,59920,Dynegy W H Zimmer,6019,W H Zimmer,OH,31.16666667,9794.586602,1425.6
+478,6452,Florida Power & Light Co,6043,Martin,FL,38,10604.93839,934.5
+479,6452,Florida Power & Light Co,6043,Martin,FL,37.5,10604.93839,934.5
+480,7140,Georgia Power Co,6052,Wansley,GA,45.75,9405.654913,952
+481,7140,Georgia Power Co,6052,Wansley,GA,44.41666667,9405.654913,952
+482,17568,Cooperative Energy,6061,R D Morrow,MS,40.58333333,10578.8715,200
+483,17568,Cooperative Energy,6061,R D Morrow,MS,39.91666667,10578.8715,200
+484,15298,Talen Montana LLC,6076,Colstrip,MT,44.16666667,10832.98297,358
+485,15298,Talen Montana LLC,6076,Colstrip,MT,43.41666667,10832.98297,358
+486,13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,IN,44.83333333,11402.15128,540
+487,13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,IN,42,11402.15128,556.4
+488,15248,Portland General Electric Co,6106,Boardman,OR,40.16666667,10053.37237,642.2
+489,7140,Georgia Power Co,6124,McIntosh,GA,40.41666667,11019.07193,177.6
+490,17698,Southwestern Electric Power Co,6139,Welsh,TX,36,10498.95944,558
+491,55983,Luminant Generation Company LLC,6147,Monticello,TX,43.08333333,11108.70341,593.4
+492,55983,Luminant Generation Company LLC,6147,Monticello,TX,42.08333333,11108.70341,593.4
+493,55983,Luminant Generation Company LLC,6147,Monticello,TX,22.58333333,11108.70341,793.2
+494,20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,WI,37.83333333,11362.83776,616.6
+495,20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,WI,32.75,11362.83776,616.6
+496,7140,Georgia Power Co,6257,Scherer,GA,32.91666667,10455.31966,891
+497,298,City of Alexandria - (LA),6558,D G Hunter,LA,41.66666667,17096.34551,85
+498,55983,Luminant Generation Company LLC,6648,Sandow No 4,TX,36.66666667,11328.53401,590.6
+499,19876,Virginia Electric & Power Co,7537,North Branch (WV),WV,20.58333333,13898.89448,80
+501,55983,Luminant Generation Company LLC,8063,DeCordova Steam Electric Station,TX,38.58333333,12048.06448,799.2
+502,14165,"GenOn Power Midwest, LP",8226,Cheswick Power Plant,PA,51.75,10070.83109,637
+503,63046,Logan Generating Company LP,10043,Logan Generating Plant,NJ,27.66666667,9702.100209,242.3
+504,12647,"ALLETE, Inc.",10075,Taconite Harbor Energy Center,MN,48.33333333,12133.82204,84
+505,14932,US Operating Services Company,10566,Chambers Cogeneration LP,NJ,28.25,9418.577348,285
+506,177,AES Hawaii LLC,10673,AES Hawaii,HI,30.33333333,9559.061536,203
+507,6452,Florida Power & Light Co,50976,Indiantown Cogeneration LP,FL,25,8790.928632,395.4
+508,49805,Kennecott Utah Copper,56163,Kennecott Power Plant,UT,61.91666667,12402.57452,82
